@@ -36,6 +36,7 @@
 
 ### Featured projects
 
+- 🛰️ [**ADes-Scanner**](https://github.com/ADes-Security/ADes-Scanner) — Active Directory security scanner: 106 LDAP/NTLM checks, BloodHound-style ACL graph & attack paths. Agentless, no domain join, read-only.
 - 🗒️ [**Pentest_Note**](https://github.com/kryo1/Pentest_Note) — My personal pentesting notes, cheatsheets & methodology.
 - 🛡️ [**sensi-cyber**](https://github.com/kryo1/sensi-cyber) — Cybersecurity awareness project.
 
